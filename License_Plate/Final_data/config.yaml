@@ -1,0 +1,12 @@
+
+path: /content/drive/MyDrive/License_Plate/Final_data
+train: /content/drive/MyDrive/License_Plate/Final_data/images/train
+#test: (test dataset folder path)
+val: /content/drive/MyDrive/License_Plate/Final_data/images/val
+
+# Classes
+nc: 1  # 将类别数量更改为数据集的类别数量（假设为1个类别）
+
+# Class names
+names:
+  0: licence
